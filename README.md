@@ -1,1 +1,2 @@
 # odin-recipes
+This repository will hold a website with recipes. This will be my first website I will create. Once I am done I will reflect on how well the website is created, how long it took me to make it and if it is user friendly. 
